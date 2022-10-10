@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to left, rgb(111, 110, 107), rgb(239, 239, 232));
+    height: 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Cambria', Cochin,  Times New Roman;
+}
+button {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    border: 1px solid darkred;
+    cursor: pointer;
+}
+.fun{
+    background: linear-gradient(to left, yellow, orange);
+}
